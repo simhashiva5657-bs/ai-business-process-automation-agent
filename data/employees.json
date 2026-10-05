@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Rahul Sharma",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "joining_date": "2026-10-12",
+    "location": "Hyderabad"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Priya Reddy",
+    "department": "Finance",
+    "role": "Financial Analyst",
+    "joining_date": "2026-10-15",
+    "location": "Hyderabad"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Arjun Kumar",
+    "department": "Human Resources",
+    "role": "HR Executive",
+    "joining_date": "2026-10-20",
+    "location": "Bangalore"
+  }
+]

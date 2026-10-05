@@ -1,0 +1,22 @@
+[
+  {
+    "item": "laptop",
+    "total": 10,
+    "available": 6
+  },
+  {
+    "item": "monitor",
+    "total": 8,
+    "available": 5
+  },
+  {
+    "item": "keyboard",
+    "total": 15,
+    "available": 12
+  },
+  {
+    "item": "mouse",
+    "total": 15,
+    "available": 13
+  }
+]

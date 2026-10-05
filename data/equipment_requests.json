@@ -1,0 +1,58 @@
+[
+  {
+    "request_id": "REQ-0001",
+    "employee_id": "EMP002",
+    "item": "monitor",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:11:25.504175"
+  },
+  {
+    "request_id": "REQ-0002",
+    "employee_id": "EMP001",
+    "item": "laptop",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:13:21.153219"
+  },
+  {
+    "request_id": "REQ-0003",
+    "employee_id": "EMP001",
+    "item": "laptop",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:29:47.257711"
+  },
+  {
+    "request_id": "REQ-0004",
+    "employee_id": "EMP001",
+    "item": "laptop",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:31:50.629389"
+  },
+  {
+    "request_id": "REQ-0005",
+    "employee_id": "EMP001",
+    "item": "laptop",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:31:50.632511"
+  },
+  {
+    "request_id": "REQ-0006",
+    "employee_id": "EMP001",
+    "item": "laptop",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:35:23.909072"
+  },
+  {
+    "request_id": "REQ-0007",
+    "employee_id": "EMP001",
+    "item": "laptop",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:35:23.915280"
+  },
+  {
+    "request_id": "REQ-0008",
+    "employee_id": "EMP001",
+    "item": "laptop",
+    "status": "CREATED",
+    "created_at": "2026-10-05T15:35:23.919026"
+  }
+]
